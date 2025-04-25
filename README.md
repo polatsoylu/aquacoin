@@ -52,3 +52,4 @@ MIT – Açık kaynaklıdır.
 
 ##📄 [Download Whitepaper (PDF)](./whitepaper.pdf)
 
+##![aquacoin_swap_qr](https://github.com/user-attachments/assets/7e0e4579-a11b-46a3-b47e-1a8da9b5e606)
