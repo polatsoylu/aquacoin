@@ -49,3 +49,4 @@ MIT – Açık kaynaklıdır.
 - Website: coming soon
 - Telegram: coming soon
 - Twitter: coming soon
+📄 [Download Whitepaper (PDF)](./whitepaper.pdf)
